@@ -1,0 +1,7 @@
+5
+CLASS      NAME       MARKS      ID
+4          Iain       96         1
+2          Jeremy     77         2
+5          Derek      94         3
+4          Ryan       52         4
+3          Leslie     85         5
